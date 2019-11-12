@@ -1,3 +1,4 @@
+#หาตัวเลขผสม
 q = int(input(""))
 if q > 10:
     q = int(input(""))
