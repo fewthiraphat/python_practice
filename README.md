@@ -1,2 +1,2 @@
-# python_practice
-ใช้สำหรับ ฝึก python
+#Practice Python
+ใช้สำหรับ ฝึกภาษา python
