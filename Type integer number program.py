@@ -8,3 +8,4 @@ Fourth = (Number%1000%100%10)//1
 msg = str(First) + "\n" + str(Second) +"\n" + str(Third) + "\n" + str(Fourth)
 #OUTPUT
 print(msg)
+//จบการทำงาน
